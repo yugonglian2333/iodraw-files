@@ -1,0 +1,253 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
+  <diagram id="route-diagram" name="Page-1">
+    <mxGraphModel dx="2026" dy="1135" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1700" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bg" value="" style="shape=rectangle;html=1;whiteSpace=wrap;fillColor=#efefef;strokeColor=none;dashed=1;dashPattern=8 4 1 4;" parent="1" vertex="1">
+          <mxGeometry width="1600" height="1700" as="geometry" />
+        </mxCell>
+        <mxCell id="l1a" value="" style="shape=rectangle;rounded=0;html=1;whiteSpace=wrap;fillColor=#cdd8ea;strokeColor=#203d70;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="72" y="165.5" width="295" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="l1b" value="" style="shape=rectangle;rounded=0;html=1;whiteSpace=wrap;fillColor=#cdd8ea;strokeColor=#203d70;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="58" y="177.5" width="295" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="l1" value="研究背景" style="shape=mxgraph.basic.document;html=1;whiteSpace=wrap;fillColor=#cdd8ea;strokeColor=#203d70;strokeWidth=3;fontSize=22;fontStyle=1;fontColor=#203d70;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="44" y="189.5" width="295" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="l2a" value="" style="shape=rectangle;rounded=0;html=1;whiteSpace=wrap;fillColor=#f0d7c7;strokeColor=#203d70;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="72" y="648.5" width="295" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="l2b" value="" style="shape=rectangle;rounded=0;html=1;whiteSpace=wrap;fillColor=#f0d7c7;strokeColor=#203d70;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="58" y="660.5" width="295" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="l2" value="耕地利用现状与&#xa;细碎化评价" style="shape=mxgraph.basic.document;html=1;whiteSpace=wrap;fillColor=#f0d7c7;strokeColor=#203d70;strokeWidth=3;fontSize=20;fontStyle=1;fontColor=#203d70;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="44" y="672.5" width="295" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="l3a" value="" style="shape=rectangle;rounded=0;html=1;whiteSpace=wrap;fillColor=#d9e9cf;strokeColor=#203d70;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="86" y="1148" width="295" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="l3b" value="" style="shape=rectangle;rounded=0;html=1;whiteSpace=wrap;fillColor=#d9e9cf;strokeColor=#203d70;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="72" y="1160" width="295" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="l3" value="细碎化整治引导&#xa;分区方法" style="shape=mxgraph.basic.document;html=1;whiteSpace=wrap;fillColor=#d9e9cf;strokeColor=#203d70;strokeWidth=3;fontSize=20;fontStyle=1;fontColor=#203d70;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="58" y="1172" width="295" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="l4a" value="" style="shape=rectangle;rounded=0;html=1;whiteSpace=wrap;fillColor=#f4ebc7;strokeColor=#203d70;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="72" y="1498" width="295" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="l4b" value="" style="shape=rectangle;rounded=0;html=1;whiteSpace=wrap;fillColor=#f4ebc7;strokeColor=#203d70;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="58" y="1510" width="295" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="l4" value="建议与对策" style="shape=mxgraph.basic.document;html=1;whiteSpace=wrap;fillColor=#f4ebc7;strokeColor=#203d70;strokeWidth=3;fontSize=22;fontStyle=1;fontColor=#203d70;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="44" y="1522" width="295" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="sec1" value="" style="shape=rectangle;rounded=0;html=1;whiteSpace=wrap;fillColor=#cfd8e6;strokeColor=#203d70;strokeWidth=3;dashed=1;dashPattern=8 4 1 4;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="30" width="1070" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="sec2" value="" style="shape=rectangle;rounded=0;html=1;whiteSpace=wrap;fillColor=#efc9ad;strokeColor=#203d70;strokeWidth=3;dashed=1;dashPattern=8 4 1 4;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="505" width="1070" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="sec3" value="" style="shape=rectangle;rounded=0;html=1;whiteSpace=wrap;fillColor=#cfe2bf;strokeColor=#203d70;strokeWidth=3;dashed=1;dashPattern=8 4 1 4;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="1005" width="1070" height="405" as="geometry" />
+        </mxCell>
+        <mxCell id="sec4" value="" style="shape=rectangle;rounded=0;html=1;whiteSpace=wrap;fillColor=#efe3b7;strokeColor=#203d70;strokeWidth=3;dashed=1;dashPattern=8 4 1 4;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="1480" width="1070" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="a1" value="研究必要性" style="rounded=1;arcSize=12;html=1;whiteSpace=wrap;fillColor=#f7f7f7;strokeColor=#111111;strokeWidth=3;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="865" y="42" width="190" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="a2" value="粮食安全面临的&#xa;挑战" style="rounded=1;arcSize=12;html=1;whiteSpace=wrap;fillColor=#f7f7f7;strokeColor=#111111;strokeWidth=3;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="560" y="140" width="225" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="a3" value="耕地可持续集&#xa;约化的必要性" style="rounded=1;arcSize=12;html=1;whiteSpace=wrap;fillColor=#f7f7f7;strokeColor=#111111;strokeWidth=3;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="850" y="140" width="225" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="a4" value="耕地细碎化对农&#xa;业生产的影响" style="rounded=1;arcSize=12;html=1;whiteSpace=wrap;fillColor=#f7f7f7;strokeColor=#111111;strokeWidth=3;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="1140" y="140" width="225" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="a5" value="国内外研究展" style="rounded=1;arcSize=12;html=1;whiteSpace=wrap;fillColor=#f7f7f7;strokeColor=#111111;strokeWidth=3;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="865" y="252" width="190" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="a6" value="耕地细碎化的内&#xa;涵、形式、成因" style="rounded=1;arcSize=12;html=1;whiteSpace=wrap;fillColor=#f7f7f7;strokeColor=#111111;strokeWidth=3;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="560" y="335" width="225" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="a7" value="耕地细碎化的影响，&#xa;评价体系" style="rounded=1;arcSize=12;html=1;whiteSpace=wrap;fillColor=#f7f7f7;strokeColor=#111111;strokeWidth=3;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="850" y="335" width="225" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="a8" value="耕地细碎化的对&#xa;策及方法" style="rounded=1;arcSize=12;html=1;whiteSpace=wrap;fillColor=#f7f7f7;strokeColor=#111111;strokeWidth=3;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="1140" y="335" width="225" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="e1" style="endArrow=block;endFill=1;strokeColor=#111111;strokeWidth=2.5;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a1" target="a2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2" style="endArrow=block;endFill=1;strokeColor=#111111;strokeWidth=2.5;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a1" target="a3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e3" style="endArrow=block;endFill=1;strokeColor=#111111;strokeWidth=2.5;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a1" target="a4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e4" style="endArrow=block;endFill=1;strokeColor=#111111;strokeWidth=2.5;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a2" target="a5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e5" style="endArrow=block;endFill=1;strokeColor=#111111;strokeWidth=2.5;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a3" target="a5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e6" style="endArrow=block;endFill=1;strokeColor=#111111;strokeWidth=2.5;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a4" target="a5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e7" style="endArrow=block;endFill=1;strokeColor=#111111;strokeWidth=2.5;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a5" target="a6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e8" style="endArrow=block;endFill=1;strokeColor=#111111;strokeWidth=2.5;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a5" target="a7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e9" style="endArrow=block;endFill=1;strokeColor=#111111;strokeWidth=2.5;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a5" target="a8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sec2l" value="" style="shape=rectangle;rounded=0;html=1;whiteSpace=wrap;fillColor=#efc9ad;strokeColor=#203d70;strokeWidth=2.5;dashed=1;dashPattern=8 4 1 4;" parent="1" vertex="1">
+          <mxGeometry x="458" y="537" width="495" height="315" as="geometry" />
+        </mxCell>
+        <mxCell id="sec2r" value="" style="shape=rectangle;rounded=0;html=1;whiteSpace=wrap;fillColor=#efc9ad;strokeColor=#203d70;strokeWidth=2.5;dashed=1;dashPattern=8 4 1 4;" parent="1" vertex="1">
+          <mxGeometry x="975" y="537" width="490" height="315" as="geometry" />
+        </mxCell>
+        <mxCell id="b1" value="土地利用数据" style="rounded=1;arcSize=12;html=1;whiteSpace=wrap;fillColor=#f7f7f7;strokeColor=#111111;strokeWidth=3;fontSize=19;" parent="1" vertex="1">
+          <mxGeometry x="595" y="565" width="220" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="b2" value="土地利用转移&#xa;矩阵" style="rounded=1;arcSize=12;html=1;whiteSpace=wrap;fillColor=#f7f7f7;strokeColor=#111111;strokeWidth=3;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="485" y="675" width="205" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="b3" value="基尼系数" style="rounded=1;arcSize=12;html=1;whiteSpace=wrap;fillColor=#f7f7f7;strokeColor=#111111;strokeWidth=3;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="720" y="675" width="205" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="b4" value="耕地资源数量&#xa;变化" style="rounded=1;arcSize=12;html=1;whiteSpace=wrap;fillColor=#f7f7f7;strokeColor=#111111;strokeWidth=3;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="485" y="785" width="205" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="b5" value="耕地资源时空&#xa;分布均衡情况" style="rounded=1;arcSize=12;html=1;whiteSpace=wrap;fillColor=#f7f7f7;strokeColor=#111111;strokeWidth=3;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="720" y="785" width="205" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="eb1" style="endArrow=block;endFill=1;strokeColor=#111111;strokeWidth=2.5;html=1;" parent="1" source="b1" target="b2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eb2" style="endArrow=block;endFill=1;strokeColor=#111111;strokeWidth=2.5;html=1;" parent="1" source="b1" target="b3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eb3" style="endArrow=block;endFill=1;strokeColor=#111111;strokeWidth=2.5;html=1;" parent="1" source="b2" target="b4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eb4" style="endArrow=block;endFill=1;strokeColor=#111111;strokeWidth=2.5;html=1;" parent="1" source="b3" target="b5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c1" value="耕地细碎化评价体系" style="rounded=1;arcSize=12;html=1;whiteSpace=wrap;fillColor=#f7f7f7;strokeColor=#111111;strokeWidth=3;fontSize=19;" parent="1" vertex="1">
+          <mxGeometry x="1090" y="555" width="260" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="c2" value="资源禀&#xa;赋度" style="rounded=1;arcSize=12;html=1;whiteSpace=wrap;fillColor=#f7f7f7;strokeColor=#111111;strokeWidth=3;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="1018" y="675" width="110" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="c3" value="空间聚&#xa;集度" style="rounded=1;arcSize=12;html=1;whiteSpace=wrap;fillColor=#f7f7f7;strokeColor=#111111;strokeWidth=3;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="1165" y="675" width="110" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="c4" value="利用便&#xa;利度" style="rounded=1;arcSize=12;html=1;whiteSpace=wrap;fillColor=#f7f7f7;strokeColor=#111111;strokeWidth=3;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="1312" y="675" width="110" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="c5" value="耕地资源时空分布均衡&#xa;情况" style="rounded=1;arcSize=12;html=1;whiteSpace=wrap;fillColor=#f7f7f7;strokeColor=#111111;strokeWidth=3;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="1070" y="785" width="300" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="ec1" style="endArrow=block;endFill=1;strokeColor=#111111;strokeWidth=2.5;html=1;" parent="1" source="c1" target="c2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ec2" style="endArrow=block;endFill=1;strokeColor=#111111;strokeWidth=2.5;html=1;" parent="1" source="c1" target="c3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ec3" style="endArrow=block;endFill=1;strokeColor=#111111;strokeWidth=2.5;html=1;" parent="1" source="c1" target="c4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ec4" style="endArrow=block;endFill=1;strokeColor=#111111;strokeWidth=2.5;html=1;" parent="1" source="c2" target="c5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ec5" style="endArrow=block;endFill=1;strokeColor=#111111;strokeWidth=2.5;html=1;" parent="1" source="c3" target="c5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ec6" style="endArrow=block;endFill=1;strokeColor=#111111;strokeWidth=2.5;html=1;" parent="1" source="c4" target="c5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sec3l" value="" style="shape=rectangle;rounded=0;html=1;whiteSpace=wrap;fillColor=#cfe2bf;strokeColor=#203d70;strokeWidth=2.5;dashed=1;dashPattern=8 4 1 4;" parent="1" vertex="1">
+          <mxGeometry x="458" y="1030" width="485" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="sec3r" value="" style="shape=rectangle;rounded=0;html=1;whiteSpace=wrap;fillColor=#cfe2bf;strokeColor=#203d70;strokeWidth=2.5;dashed=1;dashPattern=8 4 1 4;" parent="1" vertex="1">
+          <mxGeometry x="970" y="1030" width="495" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="d1" value="资源禀&#xa;赋度" style="rounded=1;arcSize=12;html=1;whiteSpace=wrap;fillColor=#f7f7f7;strokeColor=#111111;strokeWidth=3;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="475" y="1060" width="145" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="d2" value="空间聚&#xa;集度" style="rounded=1;arcSize=12;html=1;whiteSpace=wrap;fillColor=#f7f7f7;strokeColor=#111111;strokeWidth=3;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="635" y="1060" width="145" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="d3" value="利用便&#xa;利度" style="rounded=1;arcSize=12;html=1;whiteSpace=wrap;fillColor=#f7f7f7;strokeColor=#111111;strokeWidth=3;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="795" y="1060" width="145" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="d4" value="三维魔方模型" style="rounded=1;arcSize=12;html=1;whiteSpace=wrap;fillColor=#f7f7f7;strokeColor=#111111;strokeWidth=3;fontSize=19;" parent="1" vertex="1">
+          <mxGeometry x="580" y="1195" width="255" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="d5" value="乡镇级土地整治引导分区" style="rounded=1;arcSize=12;html=1;whiteSpace=wrap;fillColor=#f7f7f7;strokeColor=#111111;strokeWidth=3;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="545" y="1295" width="325" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="ed1" style="endArrow=none;strokeColor=#111111;strokeWidth=2.5;html=1;" parent="1" source="d1" target="d4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ed2" style="endArrow=block;endFill=1;strokeColor=#111111;strokeWidth=2.5;html=1;" parent="1" source="d2" target="d4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ed3" style="endArrow=none;strokeColor=#111111;strokeWidth=2.5;html=1;" parent="1" source="d3" target="d4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ed4" style="endArrow=block;endFill=1;strokeColor=#111111;strokeWidth=2.5;html=1;" parent="1" source="d4" target="d5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e1r" value="社&#xa;会&#xa;经&#xa;济&#xa;指&#xa;标" style="rounded=1;arcSize=12;html=1;whiteSpace=wrap;fillColor=#f7f7f7;strokeColor=#111111;strokeWidth=3;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="1065" width="70" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="e2r" value="地&#xa;区&#xa;优&#xa;化&#xa;指&#xa;数" style="rounded=1;arcSize=12;html=1;whiteSpace=wrap;fillColor=#f7f7f7;strokeColor=#111111;strokeWidth=3;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="1145" y="1065" width="70" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="e3r" value="县&#xa;（区）&#xa;耕地&#xa;细碎&#xa;化指&#xa;数" style="rounded=1;arcSize=12;html=1;whiteSpace=wrap;fillColor=#f7f7f7;strokeColor=#111111;strokeWidth=3;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="1310" y="1065" width="92" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="e4r" value="县（区）级土地整治引导分区" style="rounded=1;arcSize=12;html=1;whiteSpace=wrap;fillColor=#f7f7f7;strokeColor=#111111;strokeWidth=3;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="1295" width="310" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="er1" style="endArrow=block;endFill=1;strokeColor=#111111;strokeWidth=2.5;html=1;" parent="1" source="e1r" target="e2r" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="er2" style="endArrow=none;strokeColor=#111111;strokeWidth=2.5;html=1;" parent="1" source="e2r" target="e3r" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="er3" style="endArrow=block;endFill=1;strokeColor=#111111;strokeWidth=2.5;html=1;" parent="1" source="e2r" target="e4r" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="er4" style="endArrow=none;strokeColor=#111111;strokeWidth=2.5;html=1;" parent="1" source="e3r" target="e4r" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f1" value="推动土地资源合理配&#xa;置" style="rounded=1;arcSize=12;html=1;whiteSpace=wrap;fillColor=#f7f7f7;strokeColor=#111111;strokeWidth=3;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="458" y="1520" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yyugabQaduNlr3oFm7Qk-5" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.68;dx=23.75;notch=0;direction=south;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="927.5" y="440" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yyugabQaduNlr3oFm7Qk-6" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.68;dx=23.75;notch=0;direction=south;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="927.5" y="940" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yyugabQaduNlr3oFm7Qk-7" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.68;dx=23.75;notch=0;direction=south;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="927.5" y="1420" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yyugabQaduNlr3oFm7Qk-11" value="推动土地资源合理配&#xa;置" style="rounded=1;arcSize=12;html=1;whiteSpace=wrap;fillColor=#f7f7f7;strokeColor=#111111;strokeWidth=3;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="815" y="1517.5" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yyugabQaduNlr3oFm7Qk-12" value="推动土地资源合理配&#xa;置" style="rounded=1;arcSize=12;html=1;whiteSpace=wrap;fillColor=#f7f7f7;strokeColor=#111111;strokeWidth=3;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="1185" y="1520" width="280" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
