@@ -297,9 +297,6 @@
             <mxPoint x="950" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c0lrXw_nmnbq0I6bqrkL-10" value="研究基础" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4f9d9d;strokeColor=#4f9d9d;fontColor=#ffffff;fontStyle=1;fontSize=28;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="20" width="220" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
