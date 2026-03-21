@@ -11,7 +11,7 @@
           <mxGeometry x="-60" y="10" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CJnaAh27nfdvsxbJ28zr-3" value="发现问题" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=34;fontStyle=1;horizontal=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="-25" y="110" width="130" height="720" as="geometry" />
+          <mxGeometry x="-15" y="110" width="130" height="720" as="geometry" />
         </mxCell>
         <mxCell id="CJnaAh27nfdvsxbJ28zr-4" value="剖析问题" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=34;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="1040" width="90" height="250" as="geometry" />
