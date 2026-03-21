@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram name="Page-1" id="O8dlXbpV-BfyglSlwzDw">
-    <mxGraphModel dx="2385" dy="2042" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4511" dy="3233" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,8 +13,8 @@
         <mxCell id="CJnaAh27nfdvsxbJ28zr-2" value="研究思路" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=28;" parent="1" vertex="1">
           <mxGeometry x="-60" y="-10" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CJnaAh27nfdvsxbJ28zr-3" value="发现问题" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=top;fontSize=34;fontStyle=1;horizontal=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;shadow=1;textDirection=vertical-rl;labelPosition=right;verticalLabelPosition=bottom;" parent="1" vertex="1">
-          <mxGeometry x="-2.5" y="150" width="100" height="180" as="geometry" />
+        <mxCell id="CJnaAh27nfdvsxbJ28zr-3" value="发现问题" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=34;fontStyle=1;horizontal=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;shadow=1;textDirection=vertical-rl;labelPosition=center;verticalLabelPosition=middle;" parent="1" vertex="1">
+          <mxGeometry y="144" width="100" height="180" as="geometry" />
         </mxCell>
         <mxCell id="CJnaAh27nfdvsxbJ28zr-4" value="剖析问题" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=34;fontStyle=1;fillColor=#dae8fc;rounded=1;shadow=1;glass=0;strokeColor=#6c8ebf;labelPosition=center;verticalLabelPosition=middle;horizontal=1;textDirection=vertical-rl;" parent="1" vertex="1">
           <mxGeometry x="-35" y="880" width="170" height="690" as="geometry" />
