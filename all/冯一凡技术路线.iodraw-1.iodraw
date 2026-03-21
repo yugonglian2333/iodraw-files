@@ -350,7 +350,7 @@
           <mxGeometry x="810" y="2320" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="c0lrXw_nmnbq0I6bqrkL-1" value="研究内容" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4f9d9d;strokeColor=#4f9d9d;fontColor=#ffffff;fontStyle=1;fontSize=28;" vertex="1" parent="1">
-          <mxGeometry x="625" y="10" width="220" height="60" as="geometry" />
+          <mxGeometry x="630" y="10" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
