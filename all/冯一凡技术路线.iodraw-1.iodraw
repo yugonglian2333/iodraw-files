@@ -64,16 +64,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NxU04cqI6Tc43sFl2T2f-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CJnaAh27nfdvsxbJ28zr-21">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1070" y="180" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="730" y="126" />
-              <mxPoint x="730" y="153" />
-              <mxPoint x="1070" y="153" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="CJnaAh27nfdvsxbJ28zr-23" value="陕西省绿色空间生态韧性时空演变分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f4b400;strokeColor=#f4b400;fontStyle=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="430" y="850" width="600" height="46" as="geometry" />
         </mxCell>
@@ -84,7 +74,7 @@
           <mxGeometry x="300" y="180" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CJnaAh27nfdvsxbJ28zr-27" value="经济社会概况" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#333333;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="640" y="180" width="180" height="60" as="geometry" />
+          <mxGeometry x="1030" y="180" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CJnaAh27nfdvsxbJ28zr-51" value="初选驱动因子体系构建" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#333333;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="570" y="940" width="280" height="46" as="geometry" />
