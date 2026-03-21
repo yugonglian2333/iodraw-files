@@ -258,13 +258,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NxU04cqI6Tc43sFl2T2f-7" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="160" y="460" width="1100" height="370" as="geometry" />
+          <mxGeometry x="160" y="290" width="1100" height="540" as="geometry" />
         </mxCell>
         <mxCell id="CJnaAh27nfdvsxbJ28zr-18" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeWidth=2;strokeColor=#4f9d9d;fillColor=none;shadow=1;glass=1;" parent="NxU04cqI6Tc43sFl2T2f-7" vertex="1">
-          <mxGeometry y="13.703703703703704" width="1100" height="356.2962962962963" as="geometry" />
+          <mxGeometry y="220" width="1100" height="320" as="geometry" />
         </mxCell>
         <mxCell id="CJnaAh27nfdvsxbJ28zr-22" value="陕西省绿色空间时空演变特征分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f4b400;strokeColor=#f4b400;fontStyle=1;fontSize=24;" parent="NxU04cqI6Tc43sFl2T2f-7" vertex="1">
-          <mxGeometry x="290" width="560" height="31.51851851851852" as="geometry" />
+          <mxGeometry x="290" width="560" height="46" as="geometry" />
         </mxCell>
         <mxCell id="NxU04cqI6Tc43sFl2T2f-8" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="160" y="80" width="1100" height="200" as="geometry" />
