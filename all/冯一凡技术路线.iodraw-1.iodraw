@@ -14,10 +14,10 @@
           <mxGeometry x="-15" y="110" width="130" height="720" as="geometry" />
         </mxCell>
         <mxCell id="CJnaAh27nfdvsxbJ28zr-4" value="剖析问题" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=34;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="30" y="1040" width="130" height="250" as="geometry" />
+          <mxGeometry x="-15" y="1030" width="130" height="250" as="geometry" />
         </mxCell>
         <mxCell id="CJnaAh27nfdvsxbJ28zr-5" value="解决问题" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=34;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="30" y="1780" width="90" height="250" as="geometry" />
+          <mxGeometry x="30" y="1780" width="130" height="250" as="geometry" />
         </mxCell>
         <mxCell id="CJnaAh27nfdvsxbJ28zr-6" value="" style="shape=line;strokeWidth=3;strokeColor=#4f9d9d;" parent="1" vertex="1">
           <mxGeometry x="100" y="100" height="2020" as="geometry" />
