@@ -13,7 +13,7 @@
         <mxCell id="CJnaAh27nfdvsxbJ28zr-2" value="研究思路" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=28;" parent="1" vertex="1">
           <mxGeometry x="-60" y="-10" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CJnaAh27nfdvsxbJ28zr-3" value="发现问题" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=34;fontStyle=1;horizontal=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;shadow=1;textDirection=vertical-rl;" parent="1" vertex="1">
+        <mxCell id="CJnaAh27nfdvsxbJ28zr-3" value="发现问题" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=top;fontSize=34;fontStyle=1;horizontal=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;shadow=1;textDirection=vertical-rl;labelPosition=right;verticalLabelPosition=bottom;" parent="1" vertex="1">
           <mxGeometry x="-2.5" y="150" width="100" height="180" as="geometry" />
         </mxCell>
         <mxCell id="CJnaAh27nfdvsxbJ28zr-4" value="剖析问题" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=34;fontStyle=1;fillColor=#dae8fc;rounded=1;shadow=1;glass=0;strokeColor=#6c8ebf;labelPosition=center;verticalLabelPosition=middle;horizontal=1;textDirection=vertical-rl;" parent="1" vertex="1">
