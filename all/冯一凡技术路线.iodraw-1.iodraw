@@ -31,10 +31,10 @@
         <mxCell id="CJnaAh27nfdvsxbJ28zr-9" value="土地转移矩阵&lt;br style=&quot;font-size: 24px;&quot;&gt;动态度计算&lt;br style=&quot;font-size: 24px;&quot;&gt;Fragstats&lt;br style=&quot;font-size: 24px;&quot;&gt;当量因子法&lt;br style=&quot;font-size: 24px;&quot;&gt;熵权法&lt;br style=&quot;font-size: 24px;&quot;&gt;冷热点分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=24;glass=0;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="1320" y="370" width="220" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="CJnaAh27nfdvsxbJ28zr-10" value="Fragstats&lt;div&gt;相关性计算&lt;br&gt;岭回归法&lt;br&gt;主成分分析法&lt;br&gt;共线性分析&lt;br&gt;随机森林RF&lt;br&gt;GTWR模型&lt;br&gt;GIS空间可视化&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=22;glass=0;shadow=1;" parent="1" vertex="1">
+        <mxCell id="CJnaAh27nfdvsxbJ28zr-10" value="Fragstats&lt;div style=&quot;font-size: 24px;&quot;&gt;相关性计算&lt;br style=&quot;font-size: 24px;&quot;&gt;岭回归法&lt;br style=&quot;font-size: 24px;&quot;&gt;主成分分析法&lt;br style=&quot;font-size: 24px;&quot;&gt;共线性分析&lt;br style=&quot;font-size: 24px;&quot;&gt;随机森林RF&lt;br style=&quot;font-size: 24px;&quot;&gt;GTWR模型&lt;br style=&quot;font-size: 24px;&quot;&gt;GIS空间可视化&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=24;glass=0;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="1320" y="1000" width="220" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="CJnaAh27nfdvsxbJ28zr-11" value="MSPA分析&#xa;Conefor连通度&#xa;熵权法&#xa;电路模拟&#xa;Linkage Mapper&#xa;核密度分析&#xa;Gephi网络分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=22;glass=0;shadow=1;" parent="1" vertex="1">
+        <mxCell id="CJnaAh27nfdvsxbJ28zr-11" value="MSPA分析&#xa;Conefor连通度&#xa;熵权法&#xa;电路模拟&#xa;Linkage Mapper&#xa;核密度分析&#xa;Gephi网络分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=24;glass=0;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="1320" y="1700" width="220" height="380" as="geometry" />
         </mxCell>
         <mxCell id="CJnaAh27nfdvsxbJ28zr-13" value="" style="endArrow=block;html=1;strokeWidth=3;" parent="1" source="CJnaAh27nfdvsxbJ28zr-8" target="CJnaAh27nfdvsxbJ28zr-9" edge="1">
