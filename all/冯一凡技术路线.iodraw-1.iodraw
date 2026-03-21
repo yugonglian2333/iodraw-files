@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram name="Page-1" id="O8dlXbpV-BfyglSlwzDw">
-    <mxGraphModel dx="2178" dy="1926" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3528" dy="2682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -68,7 +68,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NxU04cqI6Tc43sFl2T2f-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CJnaAh27nfdvsxbJ28zr-21" target="CJnaAh27nfdvsxbJ28zr-28">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="126" />
+              <mxPoint x="730" y="153" />
+              <mxPoint x="1070" y="153" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="CJnaAh27nfdvsxbJ28zr-21" value="陕西省基本概况" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f4b400;strokeColor=#f4b400;fontStyle=1;fontSize=26;" parent="1" vertex="1">
           <mxGeometry x="460" y="80" width="540" height="46" as="geometry" />
