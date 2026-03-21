@@ -10,7 +10,7 @@
         <mxCell id="CJnaAh27nfdvsxbJ28zr-17" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeWidth=2;strokeColor=#4f9d9d;fillColor=none;shadow=1;glass=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="108" width="1100" height="251.99999999999997" as="geometry" />
         </mxCell>
-        <mxCell id="CJnaAh27nfdvsxbJ28zr-2" value="研究思路" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=28;" parent="1" vertex="1">
+        <mxCell id="CJnaAh27nfdvsxbJ28zr-2" value="研究背景" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=28;" parent="1" vertex="1">
           <mxGeometry x="-60" y="-10" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CJnaAh27nfdvsxbJ28zr-3" value="发现问题" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=34;fontStyle=1;horizontal=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;shadow=1;textDirection=vertical-rl;labelPosition=center;verticalLabelPosition=middle;" parent="1" vertex="1">
@@ -66,9 +66,6 @@
         </mxCell>
         <mxCell id="CJnaAh27nfdvsxbJ28zr-27" value="经济社会概况" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#333333;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="940" y="150" width="180" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="CJnaAh27nfdvsxbJ28zr-65" value="二产比例" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#333333;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="960" y="1120" width="40" height="140" as="geometry" />
         </mxCell>
         <mxCell id="CJnaAh27nfdvsxbJ28zr-73" value="" style="endArrow=block;html=1;strokeWidth=2;" parent="1" target="CJnaAh27nfdvsxbJ28zr-69" edge="1">
           <mxGeometry relative="1" as="geometry">
