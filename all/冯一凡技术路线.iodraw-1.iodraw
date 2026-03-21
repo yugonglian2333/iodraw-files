@@ -67,6 +67,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="NxU04cqI6Tc43sFl2T2f-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CJnaAh27nfdvsxbJ28zr-21" target="CJnaAh27nfdvsxbJ28zr-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CJnaAh27nfdvsxbJ28zr-21" value="陕西省基本概况" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f4b400;strokeColor=#f4b400;fontStyle=1;fontSize=26;" parent="1" vertex="1">
           <mxGeometry x="460" y="80" width="540" height="46" as="geometry" />
         </mxCell>
@@ -304,12 +307,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NxU04cqI6Tc43sFl2T2f-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="CJnaAh27nfdvsxbJ28zr-27">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="730" y="150" as="sourcePoint" />
-            <mxPoint x="900" y="190" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NxU04cqI6Tc43sFl2T2f-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="CJnaAh27nfdvsxbJ28zr-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="730" y="150" as="sourcePoint" />
             <mxPoint x="900" y="190" as="targetPoint" />
