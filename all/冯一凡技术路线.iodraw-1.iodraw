@@ -29,7 +29,7 @@
           <mxGeometry x="1320" y="-10" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CJnaAh27nfdvsxbJ28zr-8" value="遥感解译&lt;br&gt;多源数据获取&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;shadow=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="1320" y="110" width="220" height="160" as="geometry" />
+          <mxGeometry x="1320" y="126" width="220" height="160" as="geometry" />
         </mxCell>
         <mxCell id="CJnaAh27nfdvsxbJ28zr-9" value="土地转移矩阵&lt;br style=&quot;font-size: 24px;&quot;&gt;动态度计算&lt;br style=&quot;font-size: 24px;&quot;&gt;Fragstats&lt;br style=&quot;font-size: 24px;&quot;&gt;当量因子法&lt;br style=&quot;font-size: 24px;&quot;&gt;熵权法&lt;br style=&quot;font-size: 24px;&quot;&gt;冷热点分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=24;glass=0;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="1320" y="370" width="220" height="350" as="geometry" />
