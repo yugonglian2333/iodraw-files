@@ -264,7 +264,7 @@
           <mxGeometry y="220" width="1100" height="320" as="geometry" />
         </mxCell>
         <mxCell id="CJnaAh27nfdvsxbJ28zr-22" value="陕西省绿色空间时空演变特征分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f4b400;strokeColor=#f4b400;fontStyle=1;fontSize=24;" parent="NxU04cqI6Tc43sFl2T2f-7" vertex="1">
-          <mxGeometry x="290" width="560" height="46" as="geometry" />
+          <mxGeometry x="290" y="10" width="560" height="46" as="geometry" />
         </mxCell>
         <mxCell id="NxU04cqI6Tc43sFl2T2f-8" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="160" y="80" width="1100" height="200" as="geometry" />
