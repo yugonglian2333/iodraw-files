@@ -32,13 +32,13 @@
           <mxGeometry x="1320" y="370" width="220" height="350" as="geometry" />
         </mxCell>
         <mxCell id="CJnaAh27nfdvsxbJ28zr-10" value="相关性计算&#xa;岭回归法&#xa;主成分分析法&#xa;共线性分析&#xa;随机森林RF&#xa;GTWR模型&#xa;GIS空间可视化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#333333;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="1320" y="770" width="220" height="380" as="geometry" />
+          <mxGeometry x="1320" y="857" width="220" height="380" as="geometry" />
         </mxCell>
         <mxCell id="CJnaAh27nfdvsxbJ28zr-11" value="MSPA分析&#xa;Conefor连通度&#xa;熵权法&#xa;电路模拟&#xa;Linkage Mapper&#xa;核密度分析&#xa;Gephi网络分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#333333;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="1320" y="1260" width="220" height="380" as="geometry" />
+          <mxGeometry x="1310" y="1683" width="220" height="380" as="geometry" />
         </mxCell>
         <mxCell id="CJnaAh27nfdvsxbJ28zr-12" value="MCR模型&#xa;Gephi网络分析&#xa;电路模拟&#xa;Linkage Mapper&#xa;PLUS模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#333333;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="1320" y="1956" width="220" height="240" as="geometry" />
+          <mxGeometry x="1280" y="2390" width="220" height="240" as="geometry" />
         </mxCell>
         <mxCell id="CJnaAh27nfdvsxbJ28zr-13" value="" style="endArrow=block;html=1;strokeWidth=2;" parent="1" source="CJnaAh27nfdvsxbJ28zr-8" target="CJnaAh27nfdvsxbJ28zr-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
