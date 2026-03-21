@@ -8,7 +8,7 @@
           <mxGeometry x="10" y="10" width="1600" height="2200" as="geometry" />
         </mxCell>
         <mxCell id="CJnaAh27nfdvsxbJ28zr-2" value="研究思路" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4f9d9d;strokeColor=#4f9d9d;fontColor=#ffffff;fontStyle=1;fontSize=28;" parent="1" vertex="1">
-          <mxGeometry x="50" y="40" width="140" height="60" as="geometry" />
+          <mxGeometry width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CJnaAh27nfdvsxbJ28zr-3" value="发现问题" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=34;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="65" y="280" width="90" height="250" as="geometry" />
