@@ -17,7 +17,7 @@
           <mxGeometry x="-15" y="880" width="130" height="690" as="geometry" />
         </mxCell>
         <mxCell id="CJnaAh27nfdvsxbJ28zr-5" value="解决问题" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=34;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;glass=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-15" y="1590" width="130" height="570" as="geometry" />
+          <mxGeometry x="-15" y="1600" width="130" height="560" as="geometry" />
         </mxCell>
         <mxCell id="CJnaAh27nfdvsxbJ28zr-6" value="" style="shape=line;strokeWidth=3;strokeColor=#4f9d9d;" parent="1" vertex="1">
           <mxGeometry x="100" y="100" height="2020" as="geometry" />
@@ -37,9 +37,6 @@
         <mxCell id="CJnaAh27nfdvsxbJ28zr-11" value="MSPA分析&#xa;Conefor连通度&#xa;熵权法&#xa;电路模拟&#xa;Linkage Mapper&#xa;核密度分析&#xa;Gephi网络分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#333333;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="1310" y="1683" width="220" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="CJnaAh27nfdvsxbJ28zr-12" value="MCR模型&#xa;Gephi网络分析&#xa;电路模拟&#xa;Linkage Mapper&#xa;PLUS模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#333333;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="1280" y="2390" width="220" height="240" as="geometry" />
-        </mxCell>
         <mxCell id="CJnaAh27nfdvsxbJ28zr-13" value="" style="endArrow=block;html=1;strokeWidth=2;" parent="1" source="CJnaAh27nfdvsxbJ28zr-8" target="CJnaAh27nfdvsxbJ28zr-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -47,9 +44,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CJnaAh27nfdvsxbJ28zr-15" value="" style="endArrow=block;html=1;strokeWidth=2;" parent="1" source="CJnaAh27nfdvsxbJ28zr-10" target="CJnaAh27nfdvsxbJ28zr-11" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CJnaAh27nfdvsxbJ28zr-16" value="" style="endArrow=block;html=1;strokeWidth=2;" parent="1" source="CJnaAh27nfdvsxbJ28zr-11" target="CJnaAh27nfdvsxbJ28zr-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CJnaAh27nfdvsxbJ28zr-17" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeWidth=2;strokeColor=#4f9d9d;fillColor=none;shadow=1;glass=1;" parent="1" vertex="1">
