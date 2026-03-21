@@ -35,7 +35,7 @@
           <mxGeometry x="1320" y="1000" width="220" height="380" as="geometry" />
         </mxCell>
         <mxCell id="CJnaAh27nfdvsxbJ28zr-11" value="MSPA分析&#xa;Conefor连通度&#xa;熵权法&#xa;电路模拟&#xa;Linkage Mapper&#xa;核密度分析&#xa;Gephi网络分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=22;glass=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="1320" y="1683" width="220" height="380" as="geometry" />
+          <mxGeometry x="1320" y="1700" width="220" height="380" as="geometry" />
         </mxCell>
         <mxCell id="CJnaAh27nfdvsxbJ28zr-13" value="" style="endArrow=block;html=1;strokeWidth=3;" parent="1" source="CJnaAh27nfdvsxbJ28zr-8" target="CJnaAh27nfdvsxbJ28zr-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
