@@ -22,7 +22,7 @@
         <mxCell id="CJnaAh27nfdvsxbJ28zr-6" value="" style="shape=line;strokeWidth=3;strokeColor=#4f9d9d;" parent="1" vertex="1">
           <mxGeometry x="100" y="100" height="2020" as="geometry" />
         </mxCell>
-        <mxCell id="CJnaAh27nfdvsxbJ28zr-7" value="研究方法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=28;" parent="1" vertex="1">
+        <mxCell id="CJnaAh27nfdvsxbJ28zr-7" value="研究方法" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=28;glass=0;" parent="1" vertex="1">
           <mxGeometry x="1320" y="-10" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CJnaAh27nfdvsxbJ28zr-8" value="遥感解译&lt;br&gt;多源数据获取&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#333333;fontSize=24;" parent="1" vertex="1">
@@ -217,7 +217,7 @@
         <mxCell id="CJnaAh27nfdvsxbJ28zr-73" value="" style="endArrow=block;html=1;strokeWidth=2;" parent="1" source="CJnaAh27nfdvsxbJ28zr-52" target="CJnaAh27nfdvsxbJ28zr-69" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CJnaAh27nfdvsxbJ28zr-74" value="" style="endArrow=block;html=1;strokeWidth=2;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="CJnaAh27nfdvsxbJ28zr-53" target="CJnaAh27nfdvsxbJ28zr-70" edge="1">
+        <mxCell id="CJnaAh27nfdvsxbJ28zr-74" value="" style="endArrow=block;html=1;strokeWidth=2;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="CJnaAh27nfdvsxbJ28zr-53" target="CJnaAh27nfdvsxbJ28zr-70" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CJnaAh27nfdvsxbJ28zr-75" value="" style="endArrow=block;html=1;strokeWidth=2;" parent="1" source="CJnaAh27nfdvsxbJ28zr-69" target="CJnaAh27nfdvsxbJ28zr-71" edge="1">
@@ -288,7 +288,7 @@
             <mxPoint x="685.8974358974356" y="2150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c0lrXw_nmnbq0I6bqrkL-1" value="研究内容" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=28;" vertex="1" parent="1">
+        <mxCell id="c0lrXw_nmnbq0I6bqrkL-1" value="研究内容" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=28;glass=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="-10" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c0lrXw_nmnbq0I6bqrkL-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
