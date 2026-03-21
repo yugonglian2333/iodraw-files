@@ -13,10 +13,10 @@
         <mxCell id="CJnaAh27nfdvsxbJ28zr-3" value="发现问题" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=34;fontStyle=1;horizontal=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-15" y="110" width="130" height="720" as="geometry" />
         </mxCell>
-        <mxCell id="CJnaAh27nfdvsxbJ28zr-4" value="剖析问题" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=34;fontStyle=1;" parent="1" vertex="1">
+        <mxCell id="CJnaAh27nfdvsxbJ28zr-4" value="剖析问题" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=34;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-15" y="880" width="130" height="690" as="geometry" />
         </mxCell>
-        <mxCell id="CJnaAh27nfdvsxbJ28zr-5" value="解决问题" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=34;fontStyle=1;" parent="1" vertex="1">
+        <mxCell id="CJnaAh27nfdvsxbJ28zr-5" value="解决问题" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=34;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-15" y="1590" width="130" height="570" as="geometry" />
         </mxCell>
         <mxCell id="CJnaAh27nfdvsxbJ28zr-6" value="" style="shape=line;strokeWidth=3;strokeColor=#4f9d9d;" parent="1" vertex="1">
