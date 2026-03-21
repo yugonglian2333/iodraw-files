@@ -23,7 +23,7 @@
           <mxGeometry x="100" y="100" height="2020" as="geometry" />
         </mxCell>
         <mxCell id="CJnaAh27nfdvsxbJ28zr-7" value="研究方法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4f9d9d;strokeColor=#4f9d9d;fontColor=#ffffff;fontStyle=1;fontSize=28;" parent="1" vertex="1">
-          <mxGeometry x="1320" y="40" width="220" height="60" as="geometry" />
+          <mxGeometry x="1320" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CJnaAh27nfdvsxbJ28zr-8" value="遥感解译&#xa;多源数据获取&#xa;实地调研" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#333333;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="1320" y="130" width="220" height="150" as="geometry" />
@@ -350,7 +350,7 @@
           <mxGeometry x="810" y="2320" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="c0lrXw_nmnbq0I6bqrkL-1" value="研究思路" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4f9d9d;strokeColor=#4f9d9d;fontColor=#ffffff;fontStyle=1;fontSize=28;" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="140" height="60" as="geometry" />
+          <mxGeometry x="660" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
