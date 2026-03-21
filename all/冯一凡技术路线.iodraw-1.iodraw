@@ -244,58 +244,9 @@
         <mxCell id="CJnaAh27nfdvsxbJ28zr-77" value="" style="endArrow=block;html=1;strokeWidth=2;" parent="1" source="CJnaAh27nfdvsxbJ28zr-69" target="CJnaAh27nfdvsxbJ28zr-70" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CJnaAh27nfdvsxbJ28zr-78" value="生态网络构建" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#333333;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="570" y="1665" width="280" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="CJnaAh27nfdvsxbJ28zr-79" value="结构" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#333333;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="330" y="1770" width="90" height="46" as="geometry" />
-        </mxCell>
-        <mxCell id="CJnaAh27nfdvsxbJ28zr-80" value="功能" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#333333;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="465" y="1770" width="90" height="46" as="geometry" />
-        </mxCell>
-        <mxCell id="CJnaAh27nfdvsxbJ28zr-81" value="综合阻力面" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#333333;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="660" y="1770" width="180" height="46" as="geometry" />
-        </mxCell>
-        <mxCell id="CJnaAh27nfdvsxbJ28zr-82" value="电路模拟" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#333333;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="965" y="1770" width="140" height="46" as="geometry" />
-        </mxCell>
-        <mxCell id="CJnaAh27nfdvsxbJ28zr-83" value="连通度筛选" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#333333;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="220" y="1850" width="170" height="46" as="geometry" />
-        </mxCell>
-        <mxCell id="CJnaAh27nfdvsxbJ28zr-84" value="生态源地" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#333333;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="400" y="1910" width="170" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="CJnaAh27nfdvsxbJ28zr-85" value="生态廊道" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#333333;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="740" y="1910" width="170" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="CJnaAh27nfdvsxbJ28zr-86" value="生态节点" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#333333;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="1020" y="1910" width="170" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="CJnaAh27nfdvsxbJ28zr-93" value="" style="endArrow=block;html=1;strokeWidth=2;" parent="1" source="CJnaAh27nfdvsxbJ28zr-78" target="CJnaAh27nfdvsxbJ28zr-81" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CJnaAh27nfdvsxbJ28zr-94" value="" style="endArrow=block;html=1;strokeWidth=2;" parent="1" source="CJnaAh27nfdvsxbJ28zr-83" target="CJnaAh27nfdvsxbJ28zr-84" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CJnaAh27nfdvsxbJ28zr-95" value="" style="endArrow=block;html=1;strokeWidth=2;" parent="1" source="CJnaAh27nfdvsxbJ28zr-81" target="CJnaAh27nfdvsxbJ28zr-85" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CJnaAh27nfdvsxbJ28zr-96" value="" style="endArrow=block;html=1;strokeWidth=2;" parent="1" source="CJnaAh27nfdvsxbJ28zr-82" target="CJnaAh27nfdvsxbJ28zr-86" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CJnaAh27nfdvsxbJ28zr-97" value="" style="endArrow=block;html=1;strokeWidth=2;" parent="1" source="CJnaAh27nfdvsxbJ28zr-84" edge="1">
+        <mxCell id="CJnaAh27nfdvsxbJ28zr-93" value="" style="endArrow=block;html=1;strokeWidth=2;" parent="1" target="CJnaAh27nfdvsxbJ28zr-81" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="643.4210526315792" y="2005" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CJnaAh27nfdvsxbJ28zr-98" value="" style="endArrow=block;html=1;strokeWidth=2;" parent="1" source="CJnaAh27nfdvsxbJ28zr-85" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="732.894736842105" y="2005" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CJnaAh27nfdvsxbJ28zr-99" value="" style="endArrow=block;html=1;strokeWidth=2;" parent="1" source="CJnaAh27nfdvsxbJ28zr-86" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="806.5789473684208" y="2005" as="targetPoint" />
+            <mxPoint x="720.6930693069307" y="1719" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CJnaAh27nfdvsxbJ28zr-101" value="" style="endArrow=block;html=1;strokeWidth=2;" parent="1" edge="1">
@@ -317,9 +268,6 @@
             <mxPoint x="730" y="150" as="sourcePoint" />
             <mxPoint x="900" y="190" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="NxU04cqI6Tc43sFl2T2f-6" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeWidth=2;strokeColor=#4f9d9d;fillColor=none;shadow=1;glass=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="1690" width="1100" height="560" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
