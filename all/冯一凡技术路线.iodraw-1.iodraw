@@ -26,7 +26,7 @@
           <mxGeometry x="1320" y="-10" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CJnaAh27nfdvsxbJ28zr-8" value="遥感解译&lt;br&gt;多源数据获取&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#333333;fontSize=24;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="1320" y="110" width="220" height="130" as="geometry" />
+          <mxGeometry x="1320" y="110" width="220" height="160" as="geometry" />
         </mxCell>
         <mxCell id="CJnaAh27nfdvsxbJ28zr-9" value="土地转移矩阵&#xa;动态度计算&#xa;Fragstats&#xa;InVEST模型&#xa;当量因子法&#xa;熵权法&#xa;冷热点分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#333333;fontSize=22;glass=0;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="1320" y="370" width="220" height="350" as="geometry" />
@@ -59,6 +59,9 @@
           <mxGeometry x="160" y="1610" width="1100" height="560" as="geometry" />
         </mxCell>
         <mxCell id="c0lrXw_nmnbq0I6bqrkL-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CJnaAh27nfdvsxbJ28zr-21" target="CJnaAh27nfdvsxbJ28zr-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NxU04cqI6Tc43sFl2T2f-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CJnaAh27nfdvsxbJ28zr-21" target="CJnaAh27nfdvsxbJ28zr-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CJnaAh27nfdvsxbJ28zr-21" value="陕西省基本概况" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f4b400;strokeColor=#f4b400;fontStyle=1;fontSize=26;" parent="1" vertex="1">
