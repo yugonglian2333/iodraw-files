@@ -192,10 +192,10 @@
           <mxGeometry x="160" y="108" width="1100" height="251.99999999999997" as="geometry" />
         </mxCell>
         <mxCell id="CJnaAh27nfdvsxbJ28zr-21" value="陕西省基本情况" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f4b400;strokeColor=#f4b400;fontStyle=1;fontSize=26;" parent="1" vertex="1">
-          <mxGeometry x="460" y="80" width="540" height="64.39999999999999" as="geometry" />
+          <mxGeometry x="460" y="80" width="540" height="46" as="geometry" />
         </mxCell>
         <mxCell id="CJnaAh27nfdvsxbJ28zr-22" value="陕西省绿色空间时空演变特征分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f4b400;strokeColor=#f4b400;fontStyle=1;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="400" y="370" width="560" height="46" as="geometry" />
+          <mxGeometry x="420" y="370" width="560" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
