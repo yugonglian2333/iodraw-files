@@ -25,7 +25,7 @@
         <mxCell id="CJnaAh27nfdvsxbJ28zr-7" value="研究方法" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=28;glass=0;" parent="1" vertex="1">
           <mxGeometry x="1320" y="-10" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CJnaAh27nfdvsxbJ28zr-8" value="遥感解译&lt;br&gt;多源数据获取&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=24;shadow=1;" parent="1" vertex="1">
+        <mxCell id="CJnaAh27nfdvsxbJ28zr-8" value="遥感解译&lt;br&gt;多源数据获取&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;strokeColor=#23445d;fontSize=24;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="1320" y="110" width="220" height="160" as="geometry" />
         </mxCell>
         <mxCell id="CJnaAh27nfdvsxbJ28zr-9" value="土地转移矩阵&#xa;动态度计算&#xa;Fragstats&#xa;InVEST模型&#xa;当量因子法&#xa;熵权法&#xa;冷热点分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#333333;fontSize=22;glass=0;shadow=1;" parent="1" vertex="1">
