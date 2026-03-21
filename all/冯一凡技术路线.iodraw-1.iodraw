@@ -59,10 +59,21 @@
           <mxGeometry x="160" y="1610" width="1100" height="560" as="geometry" />
         </mxCell>
         <mxCell id="c0lrXw_nmnbq0I6bqrkL-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CJnaAh27nfdvsxbJ28zr-21" target="CJnaAh27nfdvsxbJ28zr-27" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="170" />
+              <mxPoint x="730" y="170" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="NxU04cqI6Tc43sFl2T2f-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CJnaAh27nfdvsxbJ28zr-21" target="CJnaAh27nfdvsxbJ28zr-26">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="126" />
+              <mxPoint x="730" y="153" />
+              <mxPoint x="435" y="153" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="CJnaAh27nfdvsxbJ28zr-21" value="陕西省基本概况" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f4b400;strokeColor=#f4b400;fontStyle=1;fontSize=26;" parent="1" vertex="1">
           <mxGeometry x="460" y="80" width="540" height="46" as="geometry" />
